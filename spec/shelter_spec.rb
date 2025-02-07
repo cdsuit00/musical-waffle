@@ -50,4 +50,6 @@ RSpec.describe Shelter do
         expect(shelter.call_pets).to eq(['Salem!', 'Beethoven!', 'Spot!', 'Jonesy!'])
       end
     end
+
+    
 end

@@ -81,7 +81,7 @@ pry(main)> shelter.over_capacity?
 
 
 # Iteration 4
-Follow the interaction patternbelow to write one test, make that test pass, and move on to the next test. You will have at minimum, one test per new method.
+Follow the interaction pattern below to write one test, make that test pass, and move on to the next test. You will have at minimum, one test per new method.
 * The `adopt` method will continue to remove pets from the shelter until it is
 no longer over capacity.  Pets should be adopted in the order they were added to the shelter (first in, first out).
 
